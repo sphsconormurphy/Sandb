@@ -1,0 +1,19 @@
+/*Removes default on the body-tag*/
+body{
+    margin:0;
+    height:auto;
+    width:auto;
+    background-color: pink;
+}
+
+nav{
+  height:75px;
+  width:inherit;
+  background: linear-gradient(to right, pink ,lightblue, pink, lightblue);
+  border:7.5px solid black;
+}
+.header{
+  width:50%;
+  float:left;
+  font-family:Papyrus;
+}
