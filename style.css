@@ -3,7 +3,7 @@ body{
     margin:0;
     height:auto;
     width:auto;
-    background-color: pink;
+    background-color: #AD8CFF;
 }
 
 nav{
@@ -11,9 +11,36 @@ nav{
   width:inherit;
   background: linear-gradient(to right, pink ,lightblue, pink, lightblue);
   border:7.5px solid black;
+  padding-left: 275px;
 }
 .header{
   width:50%;
   float:left;
   font-family:Papyrus;
+}
+
+section{
+  height:inherit;
+  width: 75%;
+  border: 7.5px solid pink;
+  background-color: #C774E8;
+  margin-left:12.5%;
+}
+.list{
+  font-family:Papyrus;
+  font-size: 48;
+}
+.articles{
+  width:auto;
+  height:33%;
+  padding: 2%;
+}
+#first{
+  background-color:#fac0aa;
+}
+#second{
+  background-color:#fefe66;
+}
+#third{
+  background-color:#fefec4;
 }
