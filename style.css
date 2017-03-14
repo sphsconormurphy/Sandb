@@ -11,7 +11,7 @@ nav{
   width:inherit;
   background: linear-gradient(to right, pink ,lightblue, pink, lightblue);
   border:7.5px solid black;
-  padding-left: 275px;
+  padding-left: 20%;
 }
 .header{
   width:50%;
@@ -23,12 +23,15 @@ section{
   height:inherit;
   width: 75%;
   border: 7.5px solid pink;
-  background-color: #C774E8;
   margin-left:12.5%;
+  margin-top:8%;
+  background-color: #C774E8;
 }
 .list{
   font-family:Papyrus;
   font-size: 48;
+
+
 }
 .articles{
   width:auto;
@@ -36,11 +39,11 @@ section{
   padding: 2%;
 }
 #first{
-  background-color:#fac0aa;
+  background: linear-gradient(to right, #fac0aa, lightblue, #fac0aa, lightblue);
 }
 #second{
-  background-color:#fefe66;
+  background: linear-gradient(to right,lightblue,#fefe66, lightblue, #fefe66);
 }
 #third{
-  background-color:#fefec4;
+  background: linear-gradient(to right, #fefec4, lightblue, #fefec4, lightblue);
 }
