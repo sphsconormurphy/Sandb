@@ -25,25 +25,29 @@ section{
   border: 7.5px solid pink;
   margin-left:12.5%;
   margin-top:8%;
-  background-color: #C774E8;
+  background-color: lightblue;
 }
 .list{
   font-family:Papyrus;
   font-size: 48;
-
-
 }
 .articles{
   width:auto;
   height:33%;
   padding: 2%;
 }
+.articles:hover{
+  opacity:0.5;
+}
 #first{
   background: linear-gradient(to right, #fac0aa, lightblue, #fac0aa, lightblue);
+  padding-left:44%;
 }
 #second{
   background: linear-gradient(to right,lightblue,#fefe66, lightblue, #fefe66);
+  padding-left:45%;
 }
 #third{
   background: linear-gradient(to right, #fefec4, lightblue, #fefec4, lightblue);
+  padding-left:44%;
 }
